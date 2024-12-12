@@ -7,7 +7,7 @@ This repository is a team project for the *Opensource Software* class.
 | Student ID | Name | Git-Nickname |
 | ------ | ------ | ------ |
 | 202434591 | 김도연(Kim Doyoun) | DDoyoun |
-| 202434602 | 김태민(Kim Temin) | Temkm |
+| 202434602 | 김태민(Kim Taemin) | Temkm |
 | 202434648 | 이상지(Lee Sangji) | leesangji5 |
 
 
