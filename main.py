@@ -2,7 +2,7 @@ import cv2
 import mediapipe as mp
 import pyautogui
 
-camera = cv2.VideoCapture(0)
+camera = cv2.VideoCapture(1)
 face_mesh_detector = mp.solutions.face_mesh.FaceMesh(refine_landmarks=True)
 screen_width, screen_height = pyautogui.size()
 
@@ -47,7 +47,7 @@ while True:
             pyautogui.click()
             pyautogui.sleep(1)
 
-    cv2.imshow('Eye Controlled Mouse', video_frame)
+    cv2.imshow('Eye-tracking-based-Mouse', video_frame)
     if cv2.waitKey(1) & 0xFF == 27:
         break
 
