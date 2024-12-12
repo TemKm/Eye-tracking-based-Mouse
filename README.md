@@ -4,6 +4,7 @@ This repository is a team project of class of *Opensource Software*.
 
 **Team member**
 | Student ID | Name |
+| ------ | ------ |
 | 202434591 | 김도연(Kim Doyoun) |
 | 202434602 | 김태민(Kim Temin) | 
 | 202434648 | 이상지(Lee Sangji) |
